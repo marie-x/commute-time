@@ -1,0 +1,14 @@
+{
+  "name": "commute-time",
+  "version": "1.0.0",
+  "description": "Commute Time Data Grabber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marie Maxham",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.35"
+  }
+}

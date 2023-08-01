@@ -1,0 +1,329 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJW75AQ83PRIYRUuaGu97mDKE",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJQerr1sq1RIYRfAbWOKq4U3M",
+            "types": [
+                "subpremise"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 30.4795967,
+                    "lng": -97.65391679999999
+                },
+                "southwest": {
+                    "lat": 30.2546191,
+                    "lng": -97.7367715
+                }
+            },
+            "copyrights": "Map data ©2023 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "19.3 mi",
+                        "value": 30983
+                    },
+                    "duration": {
+                        "text": "25 mins",
+                        "value": 1504
+                    },
+                    "end_address": "2400 E Cesar Chavez St UNIT 208, Austin, TX 78702, USA",
+                    "end_location": {
+                        "lat": 30.2546191,
+                        "lng": -97.71747169999999
+                    },
+                    "start_address": "17403 Zola Ln, Round Rock, TX 78664, USA",
+                    "start_location": {
+                        "lat": 30.4752073,
+                        "lng": -97.65391679999999
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.2 mi",
+                                "value": 249
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 30.4732558,
+                                "lng": -97.6551806
+                            },
+                            "html_instructions": "Head <b>southwest</b> on <b>Zola Ln</b> toward <b>Pasternak Dr</b>",
+                            "polyline": {
+                                "points": "ae_yD~_`sQhAl@^R|BnA|ChB"
+                            },
+                            "start_location": {
+                                "lat": 30.4752073,
+                                "lng": -97.65391679999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 mi",
+                                "value": 951
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 66
+                            },
+                            "end_location": {
+                                "lat": 30.4774611,
+                                "lng": -97.66382159999999
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>W Pflugerville Pkwy</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "{x~xDzg`sQeApC{@vBmA|Cc@fA}CfIQb@ABw@tBWn@GNQb@gBvEQf@uBpFgArC"
+                            },
+                            "start_location": {
+                                "lat": 30.4732558,
+                                "lng": -97.6551806
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.6 mi",
+                                "value": 974
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 83
+                            },
+                            "end_location": {
+                                "lat": 30.4727642,
+                                "lng": -97.67115749999999
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>Greenlawn Blvd</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "cs_yDz}asQWh@LHFBnAv@z@b@|@h@HDrDrBVNDBJFRJ|Ax@^TTNPLPNHHJHJJFHFHLNNRNVR`@JTJTHRFT@@FT?@FVDPDVFd@n@hERnAFf@ZpBTtAFf@@F@D?D?B?@AB?BABA@?@A@ABA@A@CBA@IF"
+                            },
+                            "start_location": {
+                                "lat": 30.4774611,
+                                "lng": -97.66382159999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.5 mi",
+                                "value": 771
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 58
+                            },
+                            "end_location": {
+                                "lat": 30.479481,
+                                "lng": -97.6731297
+                            },
+                            "html_instructions": "Slight <b>right</b> onto <b>N Interstate 35 Frontage Rd</b>",
+                            "maneuver": "turn-slight-right",
+                            "polyline": {
+                                "points": "wu~xDvkcsQgATWFc@JUDo@Ng@LUFOB]HC@YDc@J[FoAVWDQD_AP[H_FfAODg@JWDa@FYDq@JwAPiBXC@c@FgAVE@"
+                            },
+                            "start_location": {
+                                "lat": 30.4727642,
+                                "lng": -97.67115749999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "381 ft",
+                                "value": 116
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 20
+                            },
+                            "end_location": {
+                                "lat": 30.4793498,
+                                "lng": -97.67416639999999
+                            },
+                            "html_instructions": "Turn <b>left</b> toward <b>S I-35 Frontage Rd</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "w_`yD`xcsQOZABABABAD?B?B?B?JDn@@`@@D?F?D@D?@@@@B@@@@@BB@@@DBF@FB"
+                            },
+                            "start_location": {
+                                "lat": 30.479481,
+                                "lng": -97.6731297
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 mi",
+                                "value": 640
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 37
+                            },
+                            "end_location": {
+                                "lat": 30.4737892,
+                                "lng": -97.6724716
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>S I-35 Frontage Rd</b>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "}~_yDp~csQn@QlA]lFyAlBc@n@ORETEj@KBAtB_@jCa@lASv@MRAvAU"
+                            },
+                            "start_location": {
+                                "lat": 30.4793498,
+                                "lng": -97.67416639999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "12.6 mi",
+                                "value": 20280
+                            },
+                            "duration": {
+                                "text": "12 mins",
+                                "value": 694
+                            },
+                            "end_location": {
+                                "lat": 30.3019695,
+                                "lng": -97.71529369999999
+                            },
+                            "html_instructions": "Take the ramp on the <b>left</b> onto <b>I-35 S</b><div style=\"font-size:0.9em\">Pass by Motel 6 Austin, TX (on the right in 9.6 mi)</div>",
+                            "maneuver": "ramp-left",
+                            "polyline": {
+                                "points": "e|~xD|scsQJMBA@?BAPGb@OPGJERKVKDCDCVMFC\\Q\\Q^Ox@[TGx@[DQdB_@`B]`B]pCo@f@KfB_@pMsCf@KlBa@zA]@?fAWpCm@xBe@|@SXGv@QPGd@Ib@Kf@Id@Kb@Kp@Oj@OTEb@Id@KTERCPERGREREpIgBrA[~@S~@S|@Oj@KVE~@Md@EJA^EVCv@Gv@Gx@Eb@Ct@Cn@?HAj@?`@?z@?X?h@?b@@T?n@BR?XBT@L?ZBt@Df@Bb@DR@d@DzAPXDVBv@HVBPBp@Fh@Fb@DF@RB\\DTBP@j@Ff@FD@jCVbFh@hALn@HTBj@Fh@FpAN^D^DTBTBTBVBXDN@`@F\\BTDTBTBTBTBTBB@N@TBRBTBTBTDVBRBN@\\DTBRBVBh@FRDVBVBXBr@Jr@H`@Fb@DzHz@x@HtD`@bALL@TBJBTB`@DL@PB`Fj@rN`BTBPBjEd@nAN`@DfAL~BVtDb@pD`@jGp@lCXtCZ`CXt@Hr@HxBVnCXbI|@hGr@vANfBRbD\\xBVzFl@~ARvANzAP~@Jb@Dj@FdCXrCZjEd@fALd@F~@JfBRv@HXDn@FRBXDh@DnBT\\Dt@HrANXDRBb@DF@j@F`@D`@F@?fALf@DR@VBd@DV@\\Bd@@R@T@V?T@R?p@?d@AV?RAX?VAJAf@CF?JAZCb@ETCTATERC@?\\GNAHA^Ip@K@AxA[x@UTGb@OHCDAPGFCVKBAd@QJC^Or@Yr@YRIDCh@UbA_@j@UDAHEFCZKLGLG`@OJEJERIf@SnAg@^O^MTIRIRGf@OhCm@RG\\Gr@OVEhC[pAK^ARAJ?t@Ah@Ab@?P?\\@V?\\@\\@Z@b@BN?L@RBL?TB\\BZDJ@VBf@Hh@HjAPr@JbANx@LnAPRDt@J`@FPBF@f@Fv@LPDl@Hz@Lt@JpAP`ANl@H`ALp@JXD|@L|AT|@Lz@L~@L\\DTDPBZFb@FrAPnARF@XDz@Jb@HZFL@bAPZHPBj@L^H|@R\\JdAXNDNDRFPFVH`@NFB`@NPFZLNFVJPFTJ`@P?@PFLFTJVLd@Vh@XJFZPZPRLPNfAp@RLr@b@hAn@b@Vd@XZPHDb@Vd@Vh@Xb@VZPJFb@Td@VFDZNp@^~@f@v@b@TL`@Td@Vd@VNHVNt@`@d@VXNPFzC`BZPTLp@\\j@\\HDl@\\ZP^Rb@TXP@?FDb@VZPTL~BpAl@Zb@Vh@XlAp@NHt@b@pAp@r@^@@LHNH^R\\P@@HDDBNHHDDBLF?@JDDBvC~AfAj@fCtA@@FBf@XFDp@\\PJ`@RPJD@hAn@|BnAn@\\p@^@?pC|A~Az@fB`A~@f@~@f@|@f@zAx@pCzARLhAl@BBnAn@BB~@f@b@Vz@d@VLjBdAJDRL@?PJLF^Rz@f@fDfBdCvAjE|BTLh@Zb@Rx@d@zBlAvAv@n@\\j@Z^RpAr@tAv@p@\\t@b@vDrBbM|GvC`Bn@^j@XBB\\P`@T^V@@l@ZvAv@HDPJz@b@^Rn@^^TTLTLPJFDxAz@PH^RPJhAp@^Rd@Xb@Td@VbAh@RJd@V~@d@n@\\DBv@`@NFPH\\Rr@^d@VTJNHf@Xn@\\zAx@vAv@dB~@f@XLFz@b@B@|Ax@vAr@XLLFj@TNHb@PPHZJd@Pr@VHDRFRFFBLDRFRFRFB@PDTFTFPDTFPDn@LFBJBTDRDTDRBF@LBRDTBLBH@RBRDTBVBTBRDD?NBTBRBVBRBTBTBL@F?TBTBTBt@HH@TBTBVBP@TBT@JBH?TBT@TBF@J@T@PBB?TBT@TBP@@?TBTBN@D?TBh@D\\DTBd@BrBNXBXBXBbAFj@Dh@FZ@\\Bx@Fx@HR@J@xAJR@H@J?RBJ?H@X@RBX@TBT@T@TBT@TBN?@@dAF\\Dv@DTBd@DV@P@F@R@VBj@Df@DT@D@z@FXBR@b@Dj@FXBLBVBRBr@J`ANh@HTDf@JVFPDd@JH@JB\\Jn@Nb@LPFj@P`@LPFFBh@PlAb@h@RTHRHTJb@PVJRJRHn@XJDPH^R\\NZPf@VPJRJ@@l@\\^RbAj@`Ah@PJHDHDd@V|@f@@@PHb@VnAr@nDlBzAz@b@V^RPJXNLHv@b@PJHBRLRLd@Vh@XhCvANHNFHHLFNHJFJFLH@?HFNFRLZPHDVNl@\\DBb@TTNFB"
+                            },
+                            "start_location": {
+                                "lat": 30.4737892,
+                                "lng": -97.6724716
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "3.0 mi",
+                                "value": 4856
+                            },
+                            "duration": {
+                                "text": "4 mins",
+                                "value": 224
+                            },
+                            "end_location": {
+                                "lat": 30.2623761,
+                                "lng": -97.73604979999999
+                            },
+                            "html_instructions": "Keep <b>left</b> at the fork to continue on <b>I-35 S</b>/<wbr/><b>US-290 W</b>/<wbr/><b>N Interstate 35</b>, follow signs for <b>32nd St</b><div style=\"font-size:0.9em\">Continue to follow I-35 S/<wbr/>US-290 W</div>",
+                            "maneuver": "fork-left",
+                            "polyline": {
+                                "points": "ij}wDp_lsQVD@?VNFBRLx@b@B@\\PFBZPXNDBRJj@ZRJB@f@VTLl@\\PHRJb@TRJDDHDRHPLHBZPPJPHPJRJRJ\\PRL^Pd@VVNPHRJ@@NFHFFBPJPJPHDBLFRJRJPJDBLFRJRJRLPHRJf@VPJDBLFPJf@XRHXP`@R@@n@\\^Rh@ZFBd@Xd@VPJDBJFRL\\P`Aj@HDJFHD\\Rx@d@B@NHv@b@RLRJPJPJTLPJ@?b@Vb@VTLd@VPJTLLFTNB@PH`@TRJRLDBB@xBlA^RHF@?RJ\\RB@fAl@VNp@^hAl@r@`@v@b@bB~@RJNHRJZPxAz@jAp@jDnB`@TRLTLRLf@VNJRJPJPJRLRJh@Z^RDBXNVPXNNHRJRLf@XXNHDPLRJPJPJRLRJ@@b@VPJTJPJBBNHPJRJRLTJ`@TRJB@d@Td@RRHf@RDB@?NFRJVJNFRHRHb@R@?FHv@ZHBB@FBNFD@JDZLXJJDVJPFRHRFj@TRFRHRHPDTHbAXRF\\HFBlAX|@Pj@Jv@PH@D?LDH@dBZxAZv@PbATv@PJBp@PZHf@Nl@NVFJDt@Pt@Rj@P`@JD@B@p@PF@bAZpBf@XHFBpGdBp@NPDRFp@PB@dBd@@?@@b@JfBd@h@N@?@@l@PRDtA`@h@LFBbAVTH`@JXHVF~@X~@VJB^JLFZJFBF@d@RNFRJ"
+                            },
+                            "start_location": {
+                                "lat": 30.3019695,
+                                "lng": -97.71529369999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "236 ft",
+                                "value": 72
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 10
+                            },
+                            "end_location": {
+                                "lat": 30.261893,
+                                "lng": -97.7365289
+                            },
+                            "html_instructions": "Take exit <b>234A</b> toward <b>Cesar Chavez St</b>/<wbr/><b>Holly St</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "{ruwDhapsQHRBBFDRLXV@@PL@@@@?@DD"
+                            },
+                            "start_location": {
+                                "lat": 30.2623761,
+                                "lng": -97.73604979999999
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "256 ft",
+                                "value": 78
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 17
+                            },
+                            "end_location": {
+                                "lat": 30.2612203,
+                                "lng": -97.7367715
+                            },
+                            "html_instructions": "Merge onto <b>S I-35 Frontage Rd</b>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "youwDhdpsQdBb@^J"
+                            },
+                            "start_location": {
+                                "lat": 30.261893,
+                                "lng": -97.7365289
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.2 mi",
+                                "value": 1996
+                            },
+                            "duration": {
+                                "text": "4 mins",
+                                "value": 258
+                            },
+                            "end_location": {
+                                "lat": 30.2546191,
+                                "lng": -97.71747169999999
+                            },
+                            "html_instructions": "Turn <b>left</b> onto <b>E 1st St</b>/<wbr/><b>E Cesar Chavez St</b><div style=\"font-size:0.9em\">Continue to follow E Cesar Chavez St</div><div style=\"font-size:0.9em\">Pass by Bread Basket (on the left in 1.1 mi)</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                            "maneuver": "turn-left",
+                            "polyline": {
+                                "points": "skuwDxepsQ@G@G?G?O?E?M@U@Q@M?A@G@CBO@CBMBEJ]Pk@Jc@FSDSPm@VcAXmAh@yBXgAFQd@mB\\wAd@qB`A}DDUhA{EXkA\\qAh@oBdBaHtAsFPu@b@eBFWf@sBTw@TaAl@_Cj@cCV_Ah@yBZmAd@qBt@oCDYxA_GH_@H]Nm@"
+                            },
+                            "start_location": {
+                                "lat": 30.2612203,
+                                "lng": -97.7367715
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "ae_yD~_`sQdKzFsFnNcK`XgCxG_B|D`DhBvKdGt@d@b@\\h@h@t@dAt@`BPn@ZfBhC~PEXEHQNwGxA_B\\uCj@kIhB{B^wFx@kB^E@OZCFCH?VH~ABNFJRHFBn@QzHwBfE_ApHoAdCa@jBWTQrAe@rCuAhDoADQdB_@bE{@xD{@nUaF`QwDjH_BbEy@xN}C`Eu@pC[`EYrCIbD?rCDpAD|CRnD^`Gl@zY~CfKhAdI|@jGt@tTbCj_@fEz`@lEfeAjLdb@rEpJfAlGn@`CLvADbCApAEvAIdBQ`Dg@hDy@dA]|EkBpIgDvDyAdBk@nFmA`Da@pBM~BEjB@zDNzANtDh@~JxAdWpDnSvC|Cl@`EbAhDhA~CpAlAh@vBjAn@^xA`AtDxB~FdDjP~Ij@VvDrB|BnAtEhCdTlLjNtHpt@z`@da@pTba@tT|BnApBjAtHdEvGvDlInEfG`D~LxGjDfBjD~A`Bp@vBv@zBp@hDx@|B`@xC^tC\\dIt@rGh@nRvApKr@tLz@|Fd@rANtDj@vBd@bB`@bCt@pC`AlEfBlB|@rBdAzF`D~FbDnV~M~FdDx@d@^H`@RlDjBvH`E~IvEbFjClKxFtVjNdIlE~L|GfMhH|IbFbIpEvC`BfDxAxCnAFH`A^`@N~CjAfBp@~Bp@rBf@jDp@bCb@lGtAhG~AfEhAdW|GlQ|ExBn@pAd@b@RHR^Vv@r@dCn@BO?]HqALg@p@aCzDuOjC}KbBgHfAaEpFqTzAeGxGgX|BkJ"
+            },
+            "summary": "I-35 S",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
