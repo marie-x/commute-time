@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.35",
+    "google-spreadsheet": "^4.0.2",
     "parse-duration": "^1.1.0"
   }
 }
