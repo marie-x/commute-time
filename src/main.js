@@ -36,7 +36,7 @@ const client = new Client({})
 
 async function fetch() {
   const now = new Date()
-  const morning = now.getHours() <= 12
+  const morning = now.getHours() <= 11
   const origins = morning ? [HOME] : [WORK]
   const destinations = morning ? [WORK] : [HOME]
   const mode = 'driving'
